@@ -1,2 +1,2 @@
 # Connect-4-Game
-It's a basic frontend project to practice jQuery.
+It's a very basic frontend project just to practice jQuery.
